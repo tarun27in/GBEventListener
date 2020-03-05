@@ -1,0 +1,15 @@
+{
+  "name": "event-listener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "event-listener.js",
+  "scripts": {
+    "start": "node event-listener.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fabric-network": "^1.4.7"
+  }
+}

@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "chairsExists",
+        "transactionLabel": "A test chairsExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createChairs",
+        "transactionLabel": "A test createChairs transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readChairs",
+        "transactionLabel": "A test readChairs transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateChairs",
+        "transactionLabel": "A test updateChairs transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteChairs",
+        "transactionLabel": "A test deleteChairs transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
